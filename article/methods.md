@@ -1,8 +1,9 @@
 #Methods
 ##ExperimentA
-##ExperimentC 
-##What we did for expC
+## Other experiments
+Description of experiements B,C, and F
 
 
-##ExperimentF
-##Stuff for ExpF
+
+
+
